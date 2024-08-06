@@ -1,2 +1,2 @@
 # wdtools_nicole
-A modified version of the wdtools code used in my WDparams pipeline. The credit for the source code goes to Vedant Chandra, and you can view the original documentation [here](https://wdtools.readthedocs.io/en/latest/).
+A modified version of the wdtools code used in my WDparams pipeline. The credit for the source code goes to Vedant Chandra, and you can view the original documentation [here](https://wdtools.readthedocs.io/en/latest/). Some of the original dependencies have been deprecated, so I recommend accessing the .py files directly rather than setting up the package. The WDparams repository contains a .yml environment file capable of setting up a conda environment to use this older package.
